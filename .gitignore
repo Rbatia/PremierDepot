@@ -1,0 +1,15 @@
+# Fichiers binaires et compilés
+bin/
+*.class
+*.o
+*.exe
+*.tmp
+*.log
+
+# Fichiers de configuration IDE (Eclipse)
+.project
+.classpath
+
+# Dossiers IDE
+.vscode/
+.idea/
